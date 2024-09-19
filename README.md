@@ -10,6 +10,10 @@ I'm an advocate for respecting users (internal or external), open standards and 
 
 If you're hiring, see my [resume](https://monkinetic.blog/resume) and [drop me a note](mailto:steveivy@gmail.com?subject=Hiring). :)
 
+### Code
+
+I don't do much on Github (surprise), my personal code is largely at [Gitlab/steveivy](https://gitlab.com/steveivy).
+
 ##### --Steve
 
 - 🌐 Blog: <https://monkinetic.blog>
