@@ -8,15 +8,10 @@ I specialize in Python web applications, REST API design, backend systems, data 
 
 I'm an advocate for respecting users (internal or external), open standards and tools, developer experience and creating and maintaining transparency technically and organizationally.
 
-If you're hiring, see my [resume](https://monkinetic.blog/resume) and [drop me a note](mailto:steveivy@gmail.com?subject=Hiring). :)
-
-### Code
-
-I don't do much on Github (surprise), my personal code is largely at [Gitlab/steveivy](https://gitlab.com/steveivy).
+Currently I am working as Senior Enginering Manager at [Nava](https://navapbc.com), where I am in a new phase of my career learning the civic tech space and working hard on leveling up a lot of new skills!
 
 ##### --Steve
 
 - 🌐 Blog: <https://monkinetic.blog>
 - Linked In: <https://linkedin.com/in/steveivy>
-- Resume: <https://monkinetic.blog/resume>
 - ✉️ Email: <steveivy@gmail.com>
